@@ -1,0 +1,16 @@
+Before:
+- [[BIO-II]]
+Includes:
+- [[BInf4_FLM splice]]
+- [[BInf5_Soma align]]
+- [[BInf6_BlaNDM1 resist]]
+- [[BInf7_RbcL evolution]]
+- [[BInf8_SNP SUC2 Osm]]
+- [[BInf9_HY5 StemMut]]
+- [[BInf10_Plasmid Resist]]
+- [[BInf11_SNP screen]]
+- [[BInf12_Diagnostic pipeline]]
+- [[BInf13_EcoliPhylo]]
+- [[BInf14_BRCA1 evolution]]
+- [[BInf15 ESBL Resistome]]
+- [[BInf16_CFTR genotyping]]

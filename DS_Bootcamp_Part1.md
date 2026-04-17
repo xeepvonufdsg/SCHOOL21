@@ -1,0 +1,6 @@
+[[DSB2_SyntaxSemantics]]
+[[DSB3_OOP skills]]
+[[DSB4_Package management]]
+[[DSB5_Efficient code practices]]
+[[DSB6_MovieLens Analytics]]
+[[DSB1_UNIX Command Line Tools]]

@@ -1,0 +1,15 @@
+Includes:
+- [[C6_s21_matrix]]
+- [[C5_s21_decimal]]
+- [[C3_s21_stringplus]]
+- [[C2_SimpleBashUtils]]
+After:
+- [[Data Science-I]]
+- [[DevOps-I]]
+- [[Cybersecurity-I]]
+- [[Data Science (BIO)]]
+- [[QA-I]]
+- [[BSA-I]]
+- [[Project manager-I]]
+- [[UXUI-I]]
+- [[SQL]]

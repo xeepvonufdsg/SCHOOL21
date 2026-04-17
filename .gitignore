@@ -1,0 +1,7 @@
+.obsidian/
+.DS_Store
+Thumbs.db
+*.log
+Videos/
+additional_files.tar
+EOF

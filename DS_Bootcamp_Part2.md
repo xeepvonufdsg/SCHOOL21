@@ -1,0 +1,6 @@
+[[DSB7_Pandas]]
+[[DSB8_SQLPandas]]
+[[DSB9_Pandas_SQL Data Visual]]
+[[DSB10_Intro to ML]]
+[[DSB11_ML Advanced]]
+[[DSB12_Foodnutrition]]

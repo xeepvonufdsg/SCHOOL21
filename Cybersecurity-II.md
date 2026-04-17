@@ -1,0 +1,17 @@
+Before:
+- [[Cybersecurity-I]]
+Includes:
+- [[CbS5_Linux_basics]]
+- [[CbS6_Windows_basics]]
+- [[Cbs7_Crypto_intro]]
+- [[CbS8_Crypto_symmetric]]
+- [[CbS9_Crypto_asymmetric]]
+- [[CbS10_Data_channel_protection]]
+- [[CbS11_Enterprise_IT_landscape]]
+- [[CbS12_Network_attacks]]
+- [[CbS13_Threat_detection_principles]]
+- [[CbS14_Designing_secure_networks]]
+- [[CbS15_IS_legislation]]
+- [[CbS16_Project_lifecycle]]
+- [[CbS17_Physical_security]]
+- [[CbS18_Social_engineering]]
