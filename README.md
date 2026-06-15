@@ -26,7 +26,7 @@
 ---
 
 ## 📽️ Видео и дополнительные материалы доступны по ссылке
-[tgChannel](https://t.me/+5sQlQ2gBOvQyNzdi)
+[tgChannel](https://t.me/+rGx1jESa3kBlZjVi)
 
 ---
 
